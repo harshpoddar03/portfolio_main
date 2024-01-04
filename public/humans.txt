@@ -8,7 +8,7 @@ and graphic assets behind this site humanstxt.org.
 
 _______________________________________________________________________________
 
-DESIGNER | デザイナー
+Developer | デザイナー
 
 Hamish Williams
 Hand crafted design & web development
